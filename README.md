@@ -13,11 +13,11 @@
 - categorization(long and short)
 - sentiment analysis
 
-### NLU
+#### NLU
 - model, cfg-grammar, regex-grammar
 - question-answer
 - UP-based NLU
 
-### UP&RS
+#### UP&RS
 - user-profile and its application
 - CF
